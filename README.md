@@ -12,6 +12,11 @@ A Practical exam of PHY 397(Scientific Computing) given by @https://github.com/j
 </p2>
 
 <h1>Method and Results </h1>
+imported as a file.
 
 <h1> Conclusion </h1>
 <p1>This code uses the finite difference method to solve the time-independent Schrödinger equation for a particle in a one-dimensional potential well with a piecewise potential energy function. It provides an intuitive way of visualizing the energy eigenvalues and wavefunctions for different well widths and barrier heights, and allows us to calculate the energy gap between different energy levels and the probability distribution of the wavefunction. </p1>
+
+<h1>Recommendation(s)</h1>
+<p1>Python has a vast collection of libraries, and students should learn about the most commonly used ones, such as NumPy, Pandas, Matplotlib, and Scikit-learn. Also understanding of some of their in-built functions and their usage.
+</p1>
